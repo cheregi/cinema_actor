@@ -1,0 +1,33 @@
+body {
+    /* background-color: darkgrey; */
+}
+
+.fas {
+    color: white;
+    font-size: 1rem;
+}
+h1 {
+    border-top: 1px solid #EDEDED;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+   
+}
+.card-body {
+    margin: 1px solid grey;
+}
+.card-columns {
+    border-top: 1px solid #EDEDED;
+  
+}
+.text-center {
+    text-align: center;
+}
+
+
+.d-none {
+    display: none;
+}
